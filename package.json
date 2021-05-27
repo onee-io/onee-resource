@@ -1,0 +1,23 @@
+{
+  "name": "onee-resource",
+  "version": "1.0.0",
+  "description": "[![CC BY 4.0][cc-by-shield]][cc-by]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onee-io/onee-resource.git"
+  },
+  "author": "Cotes Chung",
+  "license": "CC BY 4.0",
+  "bugs": {
+    "url": "https://github.com/onee-io/onee-resource/issues"
+  },
+  "homepage": "https://github.com/onee-io/onee-resource#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0"
+  }
+}
